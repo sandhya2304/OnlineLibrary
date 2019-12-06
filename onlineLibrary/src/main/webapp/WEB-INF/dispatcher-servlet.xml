@@ -14,6 +14,7 @@
 	
 
  <context:component-scan base-package="com.lib.onlineLibrary.controller" />
+ <context:component-scan base-package="com.lib.libraryBackend.*" />
 
 	 <bean id="viewResolver"
     	class="org.springframework.web.servlet.view.InternalResourceViewResolver" >

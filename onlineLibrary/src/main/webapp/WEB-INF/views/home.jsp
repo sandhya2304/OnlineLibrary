@@ -3,15 +3,7 @@
         <div class="row">
 
             <div class="col-md-3">
-                <p class="lead"> Library Books </p>
-                <div class="list-group">
-                    <a href="#" class="list-group-item">SCIENCE</a>
-                    <a href="#" class="list-group-item">COMPUTERS</a>
-                    <a href="#" class="list-group-item">BUSSINESS</a>
-                    <a href="#" class="list-group-item">PHYSICA</a>
-                    <a href="#" class="list-group-item">CHEMISTRY</a>
-                    <a href="#" class="list-group-item">MATHS</a>
-                </div>
+               <%@include file="./shared/sidebar.jsp" %>
             </div>
 
             <div class="col-md-9">

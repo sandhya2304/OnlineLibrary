@@ -43,8 +43,13 @@
 		<scope>provided</scope>
 	</dependency>
 
-
-
+   <!-- back end -->
+  
+    <dependency>
+		<groupId>com.lib</groupId>
+       <artifactId>libraryBackend</artifactId>
+       <version>0.0.1-SNAPSHOT</version>
+	</dependency>
 
 	<!-- junit -->
 	<dependency>
